@@ -4,7 +4,7 @@ unfortunately, due to GitHub issues, commit history was lost.
 
 An app for food trucks to share their location while they are open and for users to see all the trucks that are open and where they are located around town.
 
-![app screenshot](./truck-truck-screenshot.png)
+![app screenshot](./truck-truck-goose-screenshot.png)
 
 ### Limited Use
 
